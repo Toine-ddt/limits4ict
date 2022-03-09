@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T09:03:57.604Z" agent="5.0 (X11)" etag="97rv4osnYe6PC_2CPJdI" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T09:09:46.806Z" agent="5.0 (X11)" etag="v9pmEsqHlkcYUOsjCyux" version="16.6.8" type="github">
   <diagram id="WCyVqq4l_XTl9FPMFv22" name="Page-1">
-    <mxGraphModel dx="1350" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,11 +441,20 @@
             <mxPoint x="1592" y="377.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2s43dQf52jIxW07bc8Eb-8" value="subscriber" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3040" y="430" width="180" height="52" as="geometry" />
+        <mxCell id="2s43dQf52jIxW07bc8Eb-8" value="subscriber base" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2940" y="436" width="180" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="2s43dQf52jIxW07bc8Eb-9" value="mean viewing time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="2s43dQf52jIxW07bc8Eb-8" vertex="1">
+        <mxCell id="2s43dQf52jIxW07bc8Eb-9" value="subscriber number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="2s43dQf52jIxW07bc8Eb-8" vertex="1">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sw4TC9Ts6h2QX_4KmO0X-2" value="mean viewing time" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="559" width="180" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="sw4TC9Ts6h2QX_4KmO0X-5" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2s43dQf52jIxW07bc8Eb-8" target="sw4TC9Ts6h2QX_4KmO0X-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2820" y="668.5" as="sourcePoint" />
+            <mxPoint x="2900" y="756.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
