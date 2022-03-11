@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T16:08:08.962Z" agent="5.0 (X11)" etag="Askr7blEaMYQEAprpmTL" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T16:08:31.408Z" agent="5.0 (X11)" etag="Q4mJ8Ad_9NcQiOlXL6l0" version="17.1.2" type="github">
   <diagram id="WCyVqq4l_XTl9FPMFv22" name="Page-1">
-    <mxGraphModel dx="2844" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,12 +9,6 @@
         </mxCell>
         <mxCell id="g0aZaGwdW5gYygWaZV9t-7" value="Open Connect" style="swimlane;strokeWidth=2;swimlaneLine=1;swimlaneFillColor=#F8CECC;fillColor=#F8CECC;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1350" y="30" width="1070" height="1100" as="geometry" />
-        </mxCell>
-        <mxCell id="sw4TC9Ts6h2QX_4KmO0X-48" value="network" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="g0aZaGwdW5gYygWaZV9t-7" vertex="1">
-          <mxGeometry x="465" y="40" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="sw4TC9Ts6h2QX_4KmO0X-49" value="control panel give to the end-user device a list of OCA IP adresses" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;whiteSpace=wrap;" parent="sw4TC9Ts6h2QX_4KmO0X-48" vertex="1">
-          <mxGeometry y="26" width="140" height="74" as="geometry" />
         </mxCell>
         <mxCell id="0fAPiilOCSp0_kDI21DF-24" value="Control panel" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="g0aZaGwdW5gYygWaZV9t-7" vertex="1">
           <mxGeometry x="454" y="202" width="180" height="52" as="geometry" />
@@ -382,21 +376,6 @@
         <mxCell id="sw4TC9Ts6h2QX_4KmO0X-33" value="n" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=1;" parent="sw4TC9Ts6h2QX_4KmO0X-32" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-18" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sw4TC9Ts6h2QX_4KmO0X-40" value="&lt;font color=&quot;#6F0000&quot;&gt;data&lt;/font&gt;" style="endArrow=classic;html=1;endSize=12;startArrow=classic;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#data;" parent="1" source="VJNmrJft3Lsqj60aFh9b-108" target="sw4TC9Ts6h2QX_4KmO0X-48" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="764.0034782608695" as="sourcePoint" />
-            <mxPoint x="1372" y="978.96" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1280" y="110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sw4TC9Ts6h2QX_4KmO0X-50" value="&lt;font color=&quot;#6F0000&quot;&gt;data&lt;/font&gt;" style="endArrow=classic;html=1;endSize=12;startArrow=classic;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#data;strokeWidth=2;" parent="1" source="sw4TC9Ts6h2QX_4KmO0X-48" target="sw4TC9Ts6h2QX_4KmO0X-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1845" y="423.4965217391305" as="sourcePoint" />
-            <mxPoint x="2775" y="1057.4965217391305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0fAPiilOCSp0_kDI21DF-2" value="" style="endArrow=block;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;" parent="1" source="VJNmrJft3Lsqj60aFh9b-141" target="VJNmrJft3Lsqj60aFh9b-59" edge="1">
