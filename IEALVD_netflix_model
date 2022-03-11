@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T15:55:02.985Z" agent="5.0 (X11)" etag="fV9JQyfj7UWQLCp6H0Xg" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T15:56:59.794Z" agent="5.0 (X11)" etag="g5UEIDciUOO_qM-4qfJu" version="17.1.2" type="github">
   <diagram id="WCyVqq4l_XTl9FPMFv22" name="Page-1">
     <mxGraphModel dx="2031" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g0aZaGwdW5gYygWaZV9t-10" value="End-viewer device" style="swimlane;strokeWidth=2;swimlaneLine=1;swimlaneFillColor=#D4E1F5;fillColor=#D4E1F5;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="41" width="280" height="1099" as="geometry" />
+        </mxCell>
         <mxCell id="g0aZaGwdW5gYygWaZV9t-7" value="Open Connect" style="swimlane;strokeWidth=2;swimlaneLine=1;swimlaneFillColor=#F8CECC;fillColor=#F8CECC;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1560" y="40" width="1070" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="g0aZaGwdW5gYygWaZV9t-5" value="Amazon Web Service" style="swimlane;strokeWidth=2;swimlaneLine=1;swimlaneFillColor=#FFCE9F;fillColor=#FFCE9F;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="10" y="41" width="1530" height="1099" as="geometry" />
-        </mxCell>
-        <mxCell id="8hjuXFUOwUmT1YMsW07t-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;strokeWidth=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2660" y="40" width="280" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="VJNmrJft3Lsqj60aFh9b-59" value="source media" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="334" y="450" width="140" height="52" as="geometry" />
@@ -539,9 +539,6 @@
             <mxPoint x="2410" y="486" as="sourcePoint" />
             <mxPoint x="2510" y="486" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0fAPiilOCSp0_kDI21DF-50" value="End-viewer device" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2660" y="40" width="140" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
