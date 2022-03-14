@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T12:49:05.458Z" agent="5.0 (X11)" etag="rTwgJVmqUrYSvwH3oagB" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T12:49:53.329Z" agent="5.0 (X11)" etag="1UO6M-GfFaxbHnvrbja3" version="17.1.2" type="github">
   <diagram id="WCyVqq4l_XTl9FPMFv22" name="Page-1">
     <mxGraphModel dx="1422" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="0fAPiilOCSp0_kDI21DF-36" value="fill cluster" style="swimlane;fontColor=#6F0000;strokeWidth=2;fillColor=none;" parent="g0aZaGwdW5gYygWaZV9t-7" vertex="1">
           <mxGeometry x="220" y="260" width="630" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="g0aZaGwdW5gYygWaZV9t-40" value="&lt;ul&gt;&lt;li&gt;Raw storage capacity = catalogue weight&lt;/li&gt;&lt;li&gt;cluster Operational throughput =&amp;nbsp; region throughout&lt;/li&gt;&lt;li&gt;storage number = Raw storage capacity / storage capacity + 1&lt;/li&gt;&lt;li&gt;flash number = region throughput / flash throughput&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontSize=14;labelBackgroundColor=none;" parent="0fAPiilOCSp0_kDI21DF-36" vertex="1">
+        <mxCell id="g0aZaGwdW5gYygWaZV9t-40" value="&lt;ul&gt;&lt;li&gt;Raw storage capacity = catalogue weight&lt;/li&gt;&lt;li&gt;cluster Operational throughput =&amp;nbsp; region throughout&lt;/li&gt;&lt;li&gt;storage number = Raw storage capacity / storage capacity + 1&lt;/li&gt;&lt;li&gt;flash number = region throughput / flash throughput + 1&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontSize=14;labelBackgroundColor=none;" parent="0fAPiilOCSp0_kDI21DF-36" vertex="1">
           <mxGeometry x="90" y="11" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0fAPiilOCSp0_kDI21DF-44" value="network" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;strokeWidth=3;" parent="g0aZaGwdW5gYygWaZV9t-7" vertex="1">
