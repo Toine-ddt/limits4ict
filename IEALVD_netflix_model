@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T10:10:56.350Z" agent="5.0 (X11)" etag="-nrNYaMwj4jy7edhBSmX" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T10:24:21.359Z" agent="5.0 (X11)" etag="o8sdf_xASGZhKFnr511v" version="17.1.2" type="github">
   <diagram id="WCyVqq4l_XTl9FPMFv22" name="Page-1">
     <mxGraphModel dx="1673" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           <mxGeometry x="1350" y="30" width="1070" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="0fAPiilOCSp0_kDI21DF-24" value="Control panel" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="g0aZaGwdW5gYygWaZV9t-7" vertex="1">
-          <mxGeometry x="454" y="202" width="180" height="52" as="geometry" />
+          <mxGeometry x="445" y="140" width="180" height="52" as="geometry" />
         </mxCell>
         <mxCell id="sw4TC9Ts6h2QX_4KmO0X-23" value="network" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;strokeWidth=3;" parent="g0aZaGwdW5gYygWaZV9t-7" vertex="1">
           <mxGeometry x="30" y="396" width="140" height="80" as="geometry" />
@@ -631,7 +631,7 @@
             <mxPoint x="2020" y="475.9999999999998" as="sourcePoint" />
             <mxPoint x="2060" y="475.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2120" y="258" />
+              <mxPoint x="2120" y="196" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -645,7 +645,7 @@
             <mxPoint x="2130" y="450" as="sourcePoint" />
             <mxPoint x="1994" y="268" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1675" y="260" />
+              <mxPoint x="1675" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -659,7 +659,7 @@
             <mxPoint x="2130" y="450" as="sourcePoint" />
             <mxPoint x="1994" y="268" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2880" y="258" />
+              <mxPoint x="2880" y="196" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -673,7 +673,7 @@
             <mxPoint x="1685" y="450" as="sourcePoint" />
             <mxPoint x="1814.0000000000005" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1230" y="260" />
+              <mxPoint x="1230" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
