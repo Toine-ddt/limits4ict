@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T12:42:57.060Z" agent="5.0 (X11)" etag="khKjoKq6yQOKTpJr7izX" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T12:44:59.437Z" agent="5.0 (X11)" etag="CG9HhkWkyICoqs9fpMoS" version="17.1.2" type="github">
   <diagram id="WCyVqq4l_XTl9FPMFv22" name="Page-1">
     <mxGraphModel dx="1422" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -66,10 +66,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hk6Px44PJZOzlNV6rVPP-23" value="mean end-viewer device bitrate" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="g0aZaGwdW5gYygWaZV9t-10">
-          <mxGeometry x="80" y="729" width="200" height="52" as="geometry" />
+          <mxGeometry x="69" y="529" width="200" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="hk6Px44PJZOzlNV6rVPP-32" value="Sum percentage * bitrate(resolution)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="hk6Px44PJZOzlNV6rVPP-23">
+          <mxGeometry y="26" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hk6Px44PJZOzlNV6rVPP-26" value="percentage" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" vertex="1" parent="g0aZaGwdW5gYygWaZV9t-10">
-          <mxGeometry x="200" y="849" width="140" height="56" as="geometry" />
+          <mxGeometry x="10" y="649" width="140" height="56" as="geometry" />
         </mxCell>
         <mxCell id="hk6Px44PJZOzlNV6rVPP-31" value="p : ( bitrate, resolution)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;whiteSpace=wrap;" vertex="1" parent="hk6Px44PJZOzlNV6rVPP-26">
           <mxGeometry y="26" width="140" height="30" as="geometry" />
@@ -78,6 +81,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="649" as="sourcePoint" />
             <mxPoint x="450" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hk6Px44PJZOzlNV6rVPP-33" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="g0aZaGwdW5gYygWaZV9t-10" source="g0aZaGwdW5gYygWaZV9t-36" target="hk6Px44PJZOzlNV6rVPP-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="649" as="sourcePoint" />
+            <mxPoint x="240" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g0aZaGwdW5gYygWaZV9t-7" value="Open Connect" style="swimlane;strokeWidth=2;swimlaneLine=1;swimlaneFillColor=#F8CECC;fillColor=#F8CECC;strokeColor=#000000;" parent="1" vertex="1">
@@ -784,6 +793,7 @@
             <mxPoint x="2606" y="1100" as="sourcePoint" />
             <mxPoint x="1180" y="860" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1690" y="1100" />
               <mxPoint x="1670" y="1110" />
             </Array>
           </mxGeometry>
@@ -793,7 +803,7 @@
             <mxPoint x="2590" y="832" as="sourcePoint" />
             <mxPoint x="772" y="1058" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1570" y="1110" />
+              <mxPoint x="1590" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
