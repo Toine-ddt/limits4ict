@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T14:10:31.767Z" agent="5.0 (X11)" etag="WWcHnpH0ZF5qVnhnCPZB" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T16:34:51.814Z" agent="5.0 (X11)" etag="fmU-dA3nZcEaicTDraC4" version="17.1.3" type="github">
   <diagram id="WCyVqq4l_XTl9FPMFv22" name="Page-1">
-    <mxGraphModel dx="834" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,16 +429,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8UC7_PSlYUwPJxF4eS-b-26" value="EC2 instance" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;" parent="g0aZaGwdW5gYygWaZV9t-5" vertex="1">
-          <mxGeometry x="980" y="80" width="140" height="136" as="geometry" />
+          <mxGeometry x="980" y="80" width="140" height="162" as="geometry" />
         </mxCell>
         <mxCell id="8UC7_PSlYUwPJxF4eS-b-27" value="power" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="8UC7_PSlYUwPJxF4eS-b-26" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8UC7_PSlYUwPJxF4eS-b-28" value="cpu number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="8UC7_PSlYUwPJxF4eS-b-26" vertex="1">
+        <mxCell id="qh2zZTgXNU2K8Mzskwzi-1" value="cpu number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="8UC7_PSlYUwPJxF4eS-b-26">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="8UC7_PSlYUwPJxF4eS-b-28" value="storage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="8UC7_PSlYUwPJxF4eS-b-26" vertex="1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="8UC7_PSlYUwPJxF4eS-b-32" value="instance number = catalogue weight / instance storage " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;whiteSpace=wrap;" parent="8UC7_PSlYUwPJxF4eS-b-26" vertex="1">
-          <mxGeometry y="78" width="140" height="58" as="geometry" />
+          <mxGeometry y="104" width="140" height="58" as="geometry" />
         </mxCell>
         <mxCell id="8UC7_PSlYUwPJxF4eS-b-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="g0aZaGwdW5gYygWaZV9t-5" vertex="1">
           <mxGeometry x="997" y="496" width="283" height="270" as="geometry" />
